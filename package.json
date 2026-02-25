@@ -1,0 +1,28 @@
+{
+  "name": "spendwise",
+  "version": "1.0.0",
+  "description": "Monitor your spendings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredrick-Frank/spendwise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fredrick-Frank/spendwise/issues"
+  },
+  "homepage": "https://github.com/Fredrick-Frank/spendwise#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7"
+  }
+}
