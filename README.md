@@ -1,0 +1,2 @@
+# spendwise
+Monitor your spendings
